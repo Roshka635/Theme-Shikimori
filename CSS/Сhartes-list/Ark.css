@@ -2,14 +2,14 @@
 /*Vertical poster*/
 [href*="characters/239505-"], [data-href*="characters/239505/"], [src*="characters/239505/"], [srcset*="characters/239505/"] {
   --show-default: 0;
-  --custom-image: url(https://s8d8.turboimg.net/sp/f78e5a7122d90c3eceef4244e77e2d4e/7510019.jpg?33756);
+  --custom-image: url("https://s8d8.turboimg.net/sp/f78e5a7122d90c3eceef4244e77e2d4e/7510019.jpg?33756");
 }
 /* Horizontal poster */
 .p-profiles .cc-favourites .c-character a[href*="characters/239505-"] .image-cutter {
-    background: url(https://s8d8.turboimg.net/sp/305f11cb381ac57fb41e9f5089a05e2d/3756263.jpg?5869) no-repeat center / cover;
+    background: url("ttps://s8d8.turboimg.net/sp/305f11cb381ac57fb41e9f5089a05e2d/3756263.jpg?5869") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-character:hover a[href*="characters/239505-"] .image-cutter {
-    background: url(https://s8d8.turboimg.net/sp/df256ce628576ca1065315e0eac84c2c/6556867.jpg?79545) no-repeat center / cover;
+    background: url("https://s8d8.turboimg.net/sp/df256ce628576ca1065315e0eac84c2c/6556867.jpg?79545") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-character a[href*="239505-"] .image-decor::before {
     content: "Surtr";
@@ -21,14 +21,14 @@
 /*Vertical poster*/
 [href*="characters/219299-"], [data-href*="characters/219299/"], [src*="characters/219299/"], [srcset*="characters/219299/"] {
   --show-default: 0;
-  --custom-image: url(https://s8d8.turboimg.net/sp/99d4dfbc28730e0aa68254f4c20bbcbc/3185190.jpg?15567);
+  --custom-image: url("https://s8d8.turboimg.net/sp/99d4dfbc28730e0aa68254f4c20bbcbc/3185190.jpg?15567");
 }
 /* Horizontal poster */
 .p-profiles .cc-favourites .c-character a[href*="characters/219299-"] .image-cutter {
-    background: url(https://s8d8.turboimg.net/sp/e697196d267c2a9cfa95f6941f02e337/2891908.jpg?49112) no-repeat center / cover;
+    background: url("https://s8d8.turboimg.net/sp/e697196d267c2a9cfa95f6941f02e337/2891908.jpg?49112") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-character:hover a[href*="characters/219299-"] .image-cutter {
-    background: url(https://s8d8.turboimg.net/sp/05187354eea418895a481e6772e6ca4e/9118354.jpg?20318) no-repeat center / cover;
+    background: url("https://s8d8.turboimg.net/sp/05187354eea418895a481e6772e6ca4e/9118354.jpg?20318") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-character a[href*="219299-"] .image-decor::before {
     content: "Talulah";
