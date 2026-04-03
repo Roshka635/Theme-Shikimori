@@ -1,0 +1,836 @@
+/* Miku Nakano */
+/*Vertical poster*/
+[href*="characters/160603-"], [data-href*="characters/160603/"], [src*="characters/160603/"], [srcset*="characters/160603/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551133.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/160603-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551135.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/160603-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551134.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="160603-"] .image-decor::before {
+    content: "Miku Nakano";
+}
+.p-profiles .cc-favourites .c-character a[href*="160603-"] .image-cutter::before {
+    content: "Wife";
+}
+/* Inglis Eucus */
+/*Vertical poster*/
+[href*="characters/187921-"], [data-href*="characters/187921/"], [src*="characters/187921/"], [srcset*="characters/187921/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551137.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/187921-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551136.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/187921-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551138.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="187921-"] .image-decor::before {
+    content: "Inglis Eucus";
+}
+.p-profiles .cc-favourites .c-character a[href*="187921-"] .image-cutter::before {
+    content: "Grandfather";
+}
+/* Mahiru Shiina */
+/*Vertical poster*/
+[href*="characters/193569-"], [data-href*="characters/193569/"], [src*="characters/193569/"], [srcset*="characters/193569/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551146.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/193569-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551147.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/193569-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551145.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="193569-"] .image-decor::before {
+    content: "Mahiru Shiina";
+}
+.p-profiles .cc-favourites .c-character a[href*="193569-"] .image-cutter::before {
+    content: "Best wife";
+}
+/* Rei Ayanami */
+/*Vertical poster*/
+[href*="characters/86-"], [data-href*="characters/86/"], [src*="characters/86/"], [srcset*="characters/86/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551149.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/86-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551151.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/86-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551150.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="86-"] .image-decor::before {
+    content: "Rei Ayanami";
+}
+.p-profiles .cc-favourites .c-character a[href*="86-"] .image-cutter::before {
+    content: "Rei>Asuka";
+}
+/* Calliope Mori */
+/*Vertical poster*/
+[href*="characters/209476-"], [data-href*="characters/209476/"], [src*="characters/209476/"], [srcset*="characters/209476/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551157.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/209476-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551155.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/209476-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551154.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="209476-"] .image-decor::before {
+    content: "Calliope Mori";
+}
+.p-profiles .cc-favourites .c-character a[href*="209476-"] .image-cutter::before {
+    content: "Nice music";
+}
+/* Ayame Nakiri */
+/*Vertical poster*/
+[href*="characters/186987-"], [data-href*="characters/186987/"], [src*="characters/186987/"], [srcset*="characters/186987/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551156.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/186987-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551158.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/186987-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551153.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="186987-"] .image-decor::before {
+    content: "Ayame Nakiri";
+}
+.p-profiles .cc-favourites .c-character a[href*="186987-"] .image-cutter::before {
+    content: "Best gamer";
+}
+/* Ruka Urushibara */
+/*Vertical poster*/
+[href*="characters/30919-"], [data-href*="characters/30919/"], [src*="characters/30919/"], [srcset*="characters/30919/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551161.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/30919-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551159.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/30919-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551160.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="30919-"] .image-decor::before {
+    content: "Ruka Urushibara";
+}
+.p-profiles .cc-favourites .c-character a[href*="30919-"] .image-cutter::before {
+    content: "Nice boy";
+}
+/* Nagisa Shiota */
+/*Vertical poster*/
+[href*="characters/65645-"], [data-href*="characters/65645/"], [src*="characters/65645/"], [srcset*="characters/65645/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551164.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/65645-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551165.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/65645-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551163.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="65645-"] .image-decor::before {
+    content: "Nagisa Shiota";
+}
+.p-profiles .cc-favourites .c-character a[href*="65645-"] .image-cutter::before {
+    content: "Nice boy";
+}
+/* Takina Inoue */
+/*Vertical poster*/
+[href*="characters/204620-"], [data-href*="characters/204620/"], [src*="characters/204620/"], [srcset*="characters/204620/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551171.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/204620-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551166.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/204620-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551167.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="204620-"] .image-decor::before {
+    content: "Takina Inoue";
+}
+.p-profiles .cc-favourites .c-character a[href*="204620-"] .image-cutter::before {
+    content: "Wife";
+}
+/* Megumi Katou */
+/*Vertical poster*/
+[href*="characters/90181-"], [data-href*="characters/90181/"], [src*="characters/90181/"], [srcset*="characters/90181/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551176.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/90181-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551175.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/90181-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551177.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="90181-"] .image-decor::before {
+    content: "Megumi Katou";
+}
+.p-profiles .cc-favourites .c-character a[href*="90181-"] .image-cutter::before {
+    content: "Cute";
+}
+/* Yuki Nonaka */
+/*Vertical poster*/
+[href*="characters/110633-"], [data-href*="characters/110633/"], [src*="characters/110633/"], [srcset*="characters/110633/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551180.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/110633-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551182.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/110633-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551181.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="110633-"] .image-decor::before {
+    content: "Yuki Nonaka";
+}
+.p-profiles .cc-favourites .c-character a[href*="110633-"] .image-cutter::before {
+    content: "Cute";
+}
+/* Ishtar */
+/*Vertical poster*/
+[href*="characters/157442-"], [data-href*="characters/157442/"], [src*="characters/157442/"], [srcset*="characters/157442/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551186.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/157442-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551189.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/157442-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551185.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="157442-"] .image-decor::before {
+    content: "Ishtar";
+}
+.p-profiles .cc-favourites .c-character a[href*="157442-"] .image-cutter::before {
+    content: "Like";
+}
+/* Ereshkigal */
+/*Vertical poster*/
+[href*="characters/177539-"], [data-href*="characters/177539/"], [src*="characters/177539/"], [srcset*="characters/177539/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551187.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/177539-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551188.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/177539-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551184.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="177539-"] .image-decor::before {
+    content: "Ereshkigal";
+}
+.p-profiles .cc-favourites .c-character a[href*="177539-"] .image-cutter::before {
+    content: "Like";
+}
+/* Sylphiette */
+/*Vertical poster*/
+[href*="characters/111337-"], [data-href*="characters/111337/"], [src*="characters/111337/"], [srcset*="characters/111337/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551192.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/111337-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551191.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/111337-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551190.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="111337-"] .image-decor::before {
+    content: "Sylphiette";
+}
+.p-profiles .cc-favourites .c-character a[href*="111337-"] .image-cutter::before {
+    content: "Cuute Elf";
+}
+/* Destiny */
+/*Vertical poster*/
+[href*="characters/198675-"], [data-href*="characters/198675/"], [src*="characters/198675/"], [srcset*="characters/198675/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551194.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/198675-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551196.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/198675-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551195.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="198675-"] .image-decor::before {
+    content: "Destiny";
+}
+.p-profiles .cc-favourites .c-character a[href*="198675-"] .image-cutter::before {
+    content: "Zero Two face";
+}
+/* Capf */
+/*Vertical poster*/
+[href*="characters/178092-"], [data-href*="characters/178092/"], [src*="characters/178092/"], [srcset*="characters/178092/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551202.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/178092-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551201.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/178092-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551203.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="178092-"] .image-decor::before {
+    content: "Capf";
+}
+.p-profiles .cc-favourites .c-character a[href*="178092-"] .image-cutter::before {
+    content: "Mmm, witch";
+}
+/* Akari Watanabe */
+/*Vertical poster*/
+[href*="characters/180599-"], [data-href*="characters/180599/"], [src*="characters/180599/"], [srcset*="characters/180599/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551204.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/180599-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551205.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/180599-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551206.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="180599-"] .image-decor::before {
+    content: "Akari Watanabe";
+}
+.p-profiles .cc-favourites .c-character a[href*="180599-"] .image-cutter::before {
+    content: "Cute";
+}
+/* Mio Akiyama */
+/*Vertical poster*/
+[href*="characters/19566-"], [data-href*="characters/19566/"], [src*="characters/19566/"], [srcset*="characters/19566/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551208.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/19566-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551209.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/19566-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551207.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="19566-"] .image-decor::before {
+    content: "Mio Akiyama";
+}
+.p-profiles .cc-favourites .c-character a[href*="19566-"] .image-cutter::before {
+    content: "Wife";
+}
+/* Violet Evergarden */
+/*Vertical poster*/
+[href*="characters/141354-"], [data-href*="characters/141354/"], [src*="characters/141354/"], [srcset*="characters/141354/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551215.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/141354-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551214.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/141354-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551216.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="141354-"] .image-decor::before {
+    content: "Violet Evergarden";
+}
+.p-profiles .cc-favourites .c-character a[href*="141354-"] .image-cutter::before {
+    content: "Story";
+}
+/* Madoka Higuchi */
+/*Vertical poster*/
+[href*="characters/213417-"], [data-href*="characters/213417/"], [src*="characters/213417/"], [srcset*="characters/213417/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551232.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/213417-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551233.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/213417-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551234.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="213417-"] .image-decor::before {
+    content: "Madoka Higuchi";
+}
+.p-profiles .cc-favourites .c-character a[href*="213417-"] .image-cutter::before {
+    content: "Visual";
+}
+/* Kiriha */
+/*Vertical poster*/
+[href*="characters/119543-"], [data-href*="characters/119543/"], [src*="characters/119543/"], [srcset*="characters/119543/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551244.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/119543-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551245.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/119543-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551246.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="119543-"] .image-decor::before {
+    content: "Kiriha";
+}
+.p-profiles .cc-favourites .c-character a[href*="119543-"] .image-cutter::before {
+    content: "Nive obi";
+}
+/* Tsukasa Yuzaki */
+/*Vertical poster*/
+[href*="characters/163271-"], [data-href*="characters/163271/"], [src*="characters/163271/"], [srcset*="characters/163271/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551255.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/163271-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551252.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/163271-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551251.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="163271-"] .image-decor::before {
+    content: "Tsukasa Yuzaki";
+}
+.p-profiles .cc-favourites .c-character a[href*="163271-"] .image-cutter::before {
+    content: "Good wife";
+}
+/* Lilith */
+/*Vertical poster*/
+[href*="characters/182452-"], [data-href*="characters/182452/"], [src*="characters/182452/"], [srcset*="characters/182452/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551260.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/182452-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551261.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/182452-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551259.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="182452-"] .image-decor::before {
+    content: "Lilith";
+}
+.p-profiles .cc-favourites .c-character a[href*="182452-"] .image-cutter::before {
+    content: "Cute maid";
+}
+/* Yoruka Kirihime */
+/*Vertical poster*/
+[href*="characters/127948-"], [data-href*="characters/127948/"], [src*="characters/127948/"], [srcset*="characters/127948/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551267.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/127948-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551268.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/127948-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551266.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="127948-"] .image-decor::before {
+    content: "Yoruka Kirihime";
+}
+.p-profiles .cc-favourites .c-character a[href*="127948-"] .image-cutter::before {
+    content: "Kurumi 2.0";
+}
+/* Yukino Yukinoshita */
+/*Vertical poster*/
+[href*="characters/67067-"], [data-href*="characters/67067/"], [src*="characters/67067/"], [srcset*="characters/67067/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551035.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/67067-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551028.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/67067-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551034.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="67067-"] .image-decor::before {
+    content: "Yukino Yukinoshita";
+}
+.p-profiles .cc-favourites .c-character a[href*="67067-"] .image-cutter::before {
+    content: "Saori Hayami";
+}
+/* Hachiman Hikigaya */
+/*Vertical poster*/
+[href*="characters/67065-"], [data-href*="characters/67065/"], [src*="characters/67065/"], [srcset*="characters/67065/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551029.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/67065-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551030.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/67065-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551034.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="67065-"] .image-decor::before {
+    content: "Hachiman Hikigaya";
+}
+.p-profiles .cc-favourites .c-character a[href*="67065-"] .image-cutter::before {
+    content: "Story";
+}
+/* Shizuka Hiratsuka */
+/*Vertical poster*/
+[href*="characters/67077-"], [data-href*="characters/67077/"], [src*="characters/67077/"], [srcset*="characters/67077/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551032.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/67077-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551031.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/67077-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551033.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="67077-"] .image-decor::before {
+    content: "Shizuka Hiratsuka";
+}
+.p-profiles .cc-favourites .c-character a[href*="67077-"] .image-cutter::before {
+    content: "Awesome teacher";
+}
+/* 02 */
+/*Vertical poster*/
+[href*="characters/155679-"], [data-href*="characters/155679/"], [src*="characters/155679/"], [srcset*="characters/155679/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551040.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/155679-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551042.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/155679-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551041.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="155679-"] .image-decor::before {
+    content: "Zero Two";
+}
+.p-profiles .cc-favourites .c-character a[href*="155679-"] .image-cutter::before {
+    content: "Slory";
+}
+/* 016 */
+/*Vertical poster*/
+[href*="characters/155678-"], [data-href*="characters/155678/"], [src*="characters/155678/"], [srcset*="characters/155678/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551040.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/155678-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551039.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/155678-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551041.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="155678-"] .image-decor::before {
+    content: "Hiro/016";
+}
+.p-profiles .cc-favourites .c-character a[href*="155678-"] .image-cutter::before {
+    content: "Story";
+}
+/* Kou Yamori */
+/*Vertical poster*/
+[href*="characters/177824-"], [data-href*="characters/177824/"], [src*="characters/177824/"], [srcset*="characters/177824/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551077.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/177824-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551071.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/177824-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551073.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="177824-"] .image-decor::before {
+    content: "Kou Yamori";
+}
+.p-profiles .cc-favourites .c-character a[href*="177824-"] .image-cutter::before {
+    content: "Story";
+}
+/* Nazuna Nanakusa */
+/*Vertical poster*/
+[href*="characters/177826-"], [data-href*="characters/177826/"], [src*="characters/177826/"], [srcset*="characters/177826/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551067.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/177826-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551075.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/177826-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551073.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="177826-"] .image-decor::before {
+    content: "Nazuna Nanakusa";
+}
+.p-profiles .cc-favourites .c-character a[href*="177826-"] .image-cutter::before {
+    content: "Sucking mosquito";
+}
+/* Hatsuka Suzushiro */
+/*Vertical poster*/
+[href*="characters/177821-"], [data-href*="characters/177821/"], [src*="characters/177821/"], [srcset*="characters/177821/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551078.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/177821-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551072.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/177821-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551070.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="177821-"] .image-decor::before {
+    content: "Hatsuka Suzushiro";
+}
+.p-profiles .cc-favourites .c-character a[href*="177821-"] .image-cutter::before {
+    content: "Mmm nice";
+}
+/* Miyo Saimori */
+/*Vertical poster*/
+[href*="characters/193330-"], [data-href*="characters/193330/"], [src*="characters/193330/"], [srcset*="characters/193330/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551090.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/193330-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551089.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/193330-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551086.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="193330-"] .image-decor::before {
+    content: "Miyo Saimori";
+}
+.p-profiles .cc-favourites .c-character a[href*="193330-"] .image-cutter::before {
+    content: "A hard childhood, but a happy future";
+}
+/* Kiyoka Kudou */
+/*Vertical poster*/
+[href*="characters/193329-"], [data-href*="characters/193329/"], [src*="characters/193329/"], [srcset*="characters/193329/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551087.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/193329-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551088.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/193329-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551086.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="193329-"] .image-decor::before {
+    content: "Kiyoka Kudou";
+}
+.p-profiles .cc-favourites .c-character a[href*="193329-"] .image-cutter::before {
+    content: "Good man";
+}
+/* Aliceliese Lou Nebulis IX  */
+/*Vertical poster*/
+[href*="characters/155676-"], [data-href*="characters/155676/"], [src*="characters/155676/"], [srcset*="characters/155676/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551100.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/155676-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551094.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/155676-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551096.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="155676-"] .image-decor::before {
+    content: "Aliceliese Lou Nebulis IX";
+}
+.p-profiles .cc-favourites .c-character a[href*="155676-"] .image-cutter::before {
+    content: "Juliet";
+}
+/* Iska */
+/*Vertical poster*/
+[href*="characters/155497-"], [data-href*="characters/155497/"], [src*="characters/155497/"], [srcset*="characters/155497/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551098.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/155497-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551093.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/155497-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551096.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="155497-"] .image-decor::before {
+    content: "Iska";
+}
+.p-profiles .cc-favourites .c-character a[href*="155497-"] .image-cutter::before {
+    content: "Romeo";
+}
+/* Sisbell Lou Nebulis IX */
+/*Vertical poster*/
+[href*="characters/186221-"], [data-href*="characters/186221/"], [src*="characters/186221/"], [srcset*="characters/186221/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551099.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/186221-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551095.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/186221-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551097.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="186221-"] .image-decor::before {
+    content: "Sisbell Lou Nebulis IX";
+}
+.p-profiles .cc-favourites .c-character a[href*="186221-"] .image-cutter::before {
+    content: "Cute sister";
+}
+/* Aquamarine Hoshino */
+/*Vertical poster*/
+[href*="characters/185313-"], [data-href*="characters/185313/"], [src*="characters/185313/"], [srcset*="characters/185313/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551112.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/185313-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551115.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/185313-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551103.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="185313-"] .image-decor::before {
+    content: "Aquamarine Hoshino";
+}
+.p-profiles .cc-favourites .c-character a[href*="185313-"] .image-cutter::before {
+    content: "Manipulators";
+}
+/* Ruby Hoshino */
+/*Vertical poster*/
+[href*="characters/186921-"], [data-href*="characters/186921/"], [src*="characters/186921/"], [srcset*="characters/186921/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551117.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/186921-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551104.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/186921-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551103.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="186921-"] .image-decor::before {
+    content: "Ruby Hoshino";
+}
+.p-profiles .cc-favourites .c-character a[href*="186921-"] .image-cutter::before {
+    content: "Manipulators";
+}
+/* Akane Kurokawa */
+/*Vertical poster*/
+[href*="characters/195178-"], [data-href*="characters/195178/"], [src*="characters/195178/"], [srcset*="characters/195178/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551116.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/195178-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551106.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/195178-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551105.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="195178-"] .image-decor::before {
+    content: "Akane Kurokawa";
+}
+.p-profiles .cc-favourites .c-character a[href*="195178-"] .image-cutter::before {
+    content: "Good actress";
+}
+/* Frill Shiranui */
+/*Vertical poster*/
+[href*="characters/208888-"], [data-href*="characters/208888/"], [src*="characters/208888/"], [srcset*="characters/208888/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551114.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/208888-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551102.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/208888-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551107.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="208888-"] .image-decor::before {
+    content: "Frill Shiranui";
+}
+.p-profiles .cc-favourites .c-character a[href*="208888-"] .image-cutter::before {
+    content: "Visual/Wife";
+}
+/* Tomo Aizawa */
+/*Vertical poster*/
+[href*="characters/132225-"], [data-href*="characters/132225/"], [src*="characters/132225/"], [srcset*="characters/132225/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551120.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/132225-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551119.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/132225-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551121.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="132225-"] .image-decor::before {
+    content: "Tomo Aizawa";
+}
+.p-profiles .cc-favourites .c-character a[href*="132225-"] .image-cutter::before {
+    content: "Mmm, tomboy";
+}
+/* Misha Necron */
+/*Vertical poster*/
+[href*="characters/177217-"], [data-href*="characters/177217/"], [src*="characters/177217/"], [srcset*="characters/177217/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551132.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/177217-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551129.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/177217-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551130.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="177217-"] .image-decor::before {
+    content: "Misha Necron";
+}
+.p-profiles .cc-favourites .c-character a[href*="177217-"] .image-cutter::before {
+    content: "Cute";
+}
+/* Sasha Necron */
+/*Vertical poster*/
+[href*="characters/177218-"], [data-href*="characters/177218/"], [src*="characters/177218/"], [srcset*="characters/177218/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2551131.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/177218-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551128.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/177218-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2551130.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="177218-"] .image-decor::before {
+    content: "Sasha Necron";
+}
+.p-profiles .cc-favourites .c-character a[href*="177218-"] .image-cutter::before {
+    content: "Cute";
+}
